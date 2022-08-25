@@ -1,2 +1,2 @@
---leetcode刷题记录
---链表
+#leetcode刷题记录
+##链表
